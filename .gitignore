@@ -47,3 +47,5 @@ sfca_results.json
 # Local environment variables/config
 .env
 .config
+.github/Ignore
+/JWT
